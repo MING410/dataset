@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_S_屋内＿三相_フランジ</folder>
+	<filename>s169.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image/GM_S_屋内＿三相_フランジ/s169.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_S_屋内＿三相_フランジ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>320</ymin>
+			<xmax>1395</xmax>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+</annotation>

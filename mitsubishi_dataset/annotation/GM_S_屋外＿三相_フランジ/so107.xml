@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_S_屋外＿三相_フランジ</folder>
+	<filename>so107.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image/GM_S_屋外＿三相_フランジ/so107.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_S_屋外＿三相_フランジ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>382</ymin>
+			<xmax>1387</xmax>
+			<ymax>969</ymax>
+		</bndbox>
+	</object>
+</annotation>

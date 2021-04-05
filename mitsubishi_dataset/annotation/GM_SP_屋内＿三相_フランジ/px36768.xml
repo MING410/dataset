@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_SP_屋内＿三相_フランジ</folder>
+	<filename>px36768.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image/GM_SP_屋内＿三相_フランジ/px36768.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_SP_屋内_三相_フランジ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>422</ymin>
+			<xmax>1383</xmax>
+			<ymax>967</ymax>
+		</bndbox>
+	</object>
+</annotation>

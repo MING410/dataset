@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_LJP_屋内_三相_立</folder>
+	<filename>px38174.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image/GM_LJP_屋内_三相_立/px38174.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_LJP_屋内_三相_立</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>410</ymin>
+			<xmax>1385</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+</annotation>

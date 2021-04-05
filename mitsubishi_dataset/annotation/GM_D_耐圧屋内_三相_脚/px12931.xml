@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_D_耐圧屋内_三相_脚</folder>
+	<filename>px12931.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image/GM_D_耐圧屋内_三相_脚/px12931.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_D_耐圧屋内_三相_脚</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>384</ymin>
+			<xmax>1385</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+</annotation>

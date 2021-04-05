@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_SSY_IP65_三相</folder>
+	<filename>ssyw09.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image/GM_SSY_IP65_三相/ssyw09.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_SSY_IP65_三相</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>353</ymin>
+			<xmax>1395</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>
