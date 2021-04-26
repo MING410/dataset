@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_D_屋内＿三相_脚</folder>
+	<filename>d035.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image_png/GM_D_屋内＿三相_脚/d035.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1685</width>
+		<height>1192</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_D_屋内＿三相_脚</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1663</xmax>
+			<ymax>1171</ymax>
+		</bndbox>
+	</object>
+</annotation>

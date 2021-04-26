@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_S_屋外＿三相_脚</folder>
+	<filename>so070.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image_png/GM_S_屋外＿三相_脚/so070.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_S_屋外＿三相_脚</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>1684</xmax>
+			<ymax>1191</ymax>
+		</bndbox>
+	</object>
+</annotation>

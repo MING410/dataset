@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_S_屋外＿三相_フランジ</folder>
+	<filename>so180.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image_png/GM_S_屋外＿三相_フランジ/so180.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_S_屋外＿三相_フランジ</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>7</ymin>
+			<xmax>1681</xmax>
+			<ymax>1191</ymax>
+		</bndbox>
+	</object>
+</annotation>

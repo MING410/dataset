@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_S_高効率屋内＿三相_フランジ</folder>
+	<filename>px31782.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image_png/GM_S_高効率屋内＿三相_フランジ/px31782.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_S_高効率屋内＿三相_フランジ</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>1668</xmax>
+			<ymax>1191</ymax>
+		</bndbox>
+	</object>
+</annotation>

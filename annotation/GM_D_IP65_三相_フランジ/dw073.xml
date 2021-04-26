@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GM_D_IP65_三相_フランジ</folder>
+	<filename>dw073.png</filename>
+	<path>/Users/mei/Desktop/mitsubishi_image_png/GM_D_IP65_三相_フランジ/dw073.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1684</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GM_D_IP65_三相_フランジ</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>2</ymin>
+			<xmax>1684</xmax>
+			<ymax>1191</ymax>
+		</bndbox>
+	</object>
+</annotation>
